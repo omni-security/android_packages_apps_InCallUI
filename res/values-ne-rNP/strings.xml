@@ -56,8 +56,6 @@
     <string name="wild_prompt_str" msgid="5543521676355533577">"यससँग वाइल्ड अक्षर बदल्नुहोस्"</string>
     <string name="voicemail" msgid="8693759337917898954">"भ्वाइसमेल"</string>
     <string name="call_settings" msgid="6112441768261754562">"कल सेटिङहरू"</string>
-    <string name="sum_cfb_enabled" msgid="5984198104833116690">"<xliff:g id="PHONENUMBER">{0}</xliff:g> मा फर्वाड गर्दै"</string>
-    <string name="sum_cfb_disabled" msgid="227440009979537651">"असक्षम पारियो"</string>
   <string-array name="clir_display_values">
     <item msgid="5560134294467334594">"नेटवर्क पूर्वनिर्धारित"</item>
     <item msgid="7876195870037833661">"सङ्ख्या लुकाउनुहोस्"</item>

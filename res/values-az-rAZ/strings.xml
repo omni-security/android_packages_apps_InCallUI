@@ -56,8 +56,6 @@
     <string name="wild_prompt_str" msgid="5543521676355533577">"Joker simvolları əvəz edin"</string>
     <string name="voicemail" msgid="8693759337917898954">"Səsli poçt"</string>
     <string name="call_settings" msgid="6112441768261754562">"Zəng parametrləri"</string>
-    <string name="sum_cfb_enabled" msgid="5984198104833116690">"<xliff:g id="PHONENUMBER">{0}</xliff:g> nömrəsinə yönləndirilir"</string>
-    <string name="sum_cfb_disabled" msgid="227440009979537651">"Deaktiv"</string>
   <string-array name="clir_display_values">
     <item msgid="5560134294467334594">"Defolt şəbəkə"</item>
     <item msgid="7876195870037833661">"Nömrəni gizlət"</item>

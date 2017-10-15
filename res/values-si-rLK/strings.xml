@@ -56,8 +56,6 @@
     <string name="wild_prompt_str" msgid="5543521676355533577">"අක්ෂරය ප්‍රතිස්ථාපනය කරන්නේ"</string>
     <string name="voicemail" msgid="8693759337917898954">"හඬ තැපෑල"</string>
     <string name="call_settings" msgid="6112441768261754562">"ඇමතුම් සැකසුම්"</string>
-    <string name="sum_cfb_enabled" msgid="5984198104833116690">"<xliff:g id="PHONENUMBER">{0}</xliff:g> වෙත ඉදිරියට යවමින්"</string>
-    <string name="sum_cfb_disabled" msgid="227440009979537651">"අබලයි"</string>
   <string-array name="clir_display_values">
     <item msgid="5560134294467334594">"ජාල සුපුරුදු"</item>
     <item msgid="7876195870037833661">"අංකය සඟවන්න"</item>
